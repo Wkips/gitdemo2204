@@ -1,0 +1,15 @@
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.7Barnabe\obj\Debug\net6.0\3.7Barnabe.csproj.AssemblyReference.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.7Barnabe\obj\Debug\net6.0\3.7Barnabe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.7Barnabe\obj\Debug\net6.0\3.7Barnabe.AssemblyInfoInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.7Barnabe\obj\Debug\net6.0\3.7Barnabe.AssemblyInfo.cs
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.7Barnabe\obj\Debug\net6.0\3.7Barnabe.csproj.CoreCompileInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.7Barnabe\bin\Debug\net6.0\3.7Barnabe.exe
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.7Barnabe\bin\Debug\net6.0\3.7Barnabe.deps.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.7Barnabe\bin\Debug\net6.0\3.7Barnabe.runtimeconfig.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.7Barnabe\bin\Debug\net6.0\3.7Barnabe.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.7Barnabe\bin\Debug\net6.0\3.7Barnabe.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.7Barnabe\obj\Debug\net6.0\3.7Barnabe.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.7Barnabe\obj\Debug\net6.0\refint\3.7Barnabe.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.7Barnabe\obj\Debug\net6.0\3.7Barnabe.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.7Barnabe\obj\Debug\net6.0\3.7Barnabe.genruntimeconfig.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.7Barnabe\obj\Debug\net6.0\ref\3.7Barnabe.dll

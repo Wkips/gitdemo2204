@@ -1,0 +1,30 @@
+C:\Users\wkips\OneDrive - CENTRE DE READAPTATION\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\bin\Debug\net6.0\3.4Diviseur.exe
+C:\Users\wkips\OneDrive - CENTRE DE READAPTATION\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\bin\Debug\net6.0\3.4Diviseur.deps.json
+C:\Users\wkips\OneDrive - CENTRE DE READAPTATION\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\bin\Debug\net6.0\3.4Diviseur.runtimeconfig.json
+C:\Users\wkips\OneDrive - CENTRE DE READAPTATION\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\bin\Debug\net6.0\3.4Diviseur.dll
+C:\Users\wkips\OneDrive - CENTRE DE READAPTATION\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\bin\Debug\net6.0\3.4Diviseur.pdb
+C:\Users\wkips\OneDrive - CENTRE DE READAPTATION\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\3.4Diviseur.csproj.AssemblyReference.cache
+C:\Users\wkips\OneDrive - CENTRE DE READAPTATION\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\3.4Diviseur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkips\OneDrive - CENTRE DE READAPTATION\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\3.4Diviseur.AssemblyInfoInputs.cache
+C:\Users\wkips\OneDrive - CENTRE DE READAPTATION\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\3.4Diviseur.AssemblyInfo.cs
+C:\Users\wkips\OneDrive - CENTRE DE READAPTATION\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\3.4Diviseur.csproj.CoreCompileInputs.cache
+C:\Users\wkips\OneDrive - CENTRE DE READAPTATION\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\3.4Diviseur.dll
+C:\Users\wkips\OneDrive - CENTRE DE READAPTATION\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\refint\3.4Diviseur.dll
+C:\Users\wkips\OneDrive - CENTRE DE READAPTATION\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\3.4Diviseur.pdb
+C:\Users\wkips\OneDrive - CENTRE DE READAPTATION\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\3.4Diviseur.genruntimeconfig.cache
+C:\Users\wkips\OneDrive - CENTRE DE READAPTATION\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\ref\3.4Diviseur.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\bin\Debug\net6.0\3.4Diviseur.exe
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\bin\Debug\net6.0\3.4Diviseur.deps.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\bin\Debug\net6.0\3.4Diviseur.runtimeconfig.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\bin\Debug\net6.0\3.4Diviseur.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\bin\Debug\net6.0\3.4Diviseur.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\3.4Diviseur.csproj.AssemblyReference.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\3.4Diviseur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\3.4Diviseur.AssemblyInfoInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\3.4Diviseur.AssemblyInfo.cs
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\3.4Diviseur.csproj.CoreCompileInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\3.4Diviseur.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\refint\3.4Diviseur.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\3.4Diviseur.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\3.4Diviseur.genruntimeconfig.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.4Diviseur\obj\Debug\net6.0\ref\3.4Diviseur.dll

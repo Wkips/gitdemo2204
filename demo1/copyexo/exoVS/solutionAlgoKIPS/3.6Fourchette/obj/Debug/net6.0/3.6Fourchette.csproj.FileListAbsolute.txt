@@ -1,0 +1,15 @@
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.6Fourchette\obj\Debug\net6.0\3.6Fourchette.csproj.AssemblyReference.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.6Fourchette\obj\Debug\net6.0\3.6Fourchette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.6Fourchette\obj\Debug\net6.0\3.6Fourchette.AssemblyInfoInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.6Fourchette\obj\Debug\net6.0\3.6Fourchette.AssemblyInfo.cs
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.6Fourchette\obj\Debug\net6.0\3.6Fourchette.csproj.CoreCompileInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.6Fourchette\bin\Debug\net6.0\3.6Fourchette.exe
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.6Fourchette\bin\Debug\net6.0\3.6Fourchette.deps.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.6Fourchette\bin\Debug\net6.0\3.6Fourchette.runtimeconfig.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.6Fourchette\bin\Debug\net6.0\3.6Fourchette.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.6Fourchette\bin\Debug\net6.0\3.6Fourchette.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.6Fourchette\obj\Debug\net6.0\3.6Fourchette.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.6Fourchette\obj\Debug\net6.0\refint\3.6Fourchette.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.6Fourchette\obj\Debug\net6.0\3.6Fourchette.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.6Fourchette\obj\Debug\net6.0\3.6Fourchette.genruntimeconfig.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.6Fourchette\obj\Debug\net6.0\ref\3.6Fourchette.dll

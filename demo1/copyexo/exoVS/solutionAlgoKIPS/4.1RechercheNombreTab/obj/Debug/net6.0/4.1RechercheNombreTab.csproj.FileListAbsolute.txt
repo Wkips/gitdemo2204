@@ -1,0 +1,15 @@
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.1RechercheNombreTab\bin\Debug\net6.0\4.1RechercheNombreTab.exe
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.1RechercheNombreTab\bin\Debug\net6.0\4.1RechercheNombreTab.deps.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.1RechercheNombreTab\bin\Debug\net6.0\4.1RechercheNombreTab.runtimeconfig.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.1RechercheNombreTab\bin\Debug\net6.0\4.1RechercheNombreTab.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.1RechercheNombreTab\bin\Debug\net6.0\4.1RechercheNombreTab.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.1RechercheNombreTab\obj\Debug\net6.0\4.1RechercheNombreTab.csproj.AssemblyReference.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.1RechercheNombreTab\obj\Debug\net6.0\4.1RechercheNombreTab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.1RechercheNombreTab\obj\Debug\net6.0\4.1RechercheNombreTab.AssemblyInfoInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.1RechercheNombreTab\obj\Debug\net6.0\4.1RechercheNombreTab.AssemblyInfo.cs
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.1RechercheNombreTab\obj\Debug\net6.0\4.1RechercheNombreTab.csproj.CoreCompileInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.1RechercheNombreTab\obj\Debug\net6.0\4.1RechercheNombreTab.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.1RechercheNombreTab\obj\Debug\net6.0\refint\4.1RechercheNombreTab.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.1RechercheNombreTab\obj\Debug\net6.0\4.1RechercheNombreTab.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.1RechercheNombreTab\obj\Debug\net6.0\4.1RechercheNombreTab.genruntimeconfig.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.1RechercheNombreTab\obj\Debug\net6.0\ref\4.1RechercheNombreTab.dll

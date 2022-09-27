@@ -1,0 +1,15 @@
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.5NombrePremier\obj\Debug\net6.0\3.5NombrePremier.csproj.AssemblyReference.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.5NombrePremier\obj\Debug\net6.0\3.5NombrePremier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.5NombrePremier\obj\Debug\net6.0\3.5NombrePremier.AssemblyInfoInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.5NombrePremier\obj\Debug\net6.0\3.5NombrePremier.AssemblyInfo.cs
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.5NombrePremier\obj\Debug\net6.0\3.5NombrePremier.csproj.CoreCompileInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.5NombrePremier\bin\Debug\net6.0\3.5NombrePremier.exe
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.5NombrePremier\bin\Debug\net6.0\3.5NombrePremier.deps.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.5NombrePremier\bin\Debug\net6.0\3.5NombrePremier.runtimeconfig.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.5NombrePremier\bin\Debug\net6.0\3.5NombrePremier.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.5NombrePremier\bin\Debug\net6.0\3.5NombrePremier.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.5NombrePremier\obj\Debug\net6.0\3.5NombrePremier.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.5NombrePremier\obj\Debug\net6.0\refint\3.5NombrePremier.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.5NombrePremier\obj\Debug\net6.0\3.5NombrePremier.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.5NombrePremier\obj\Debug\net6.0\3.5NombrePremier.genruntimeconfig.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\3.5NombrePremier\obj\Debug\net6.0\ref\3.5NombrePremier.dll

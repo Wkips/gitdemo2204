@@ -1,0 +1,15 @@
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.2RechercheLettrePhrase\obj\Debug\net6.0\4.2RechercheLettrePhrase.csproj.AssemblyReference.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.2RechercheLettrePhrase\obj\Debug\net6.0\4.2RechercheLettrePhrase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.2RechercheLettrePhrase\obj\Debug\net6.0\4.2RechercheLettrePhrase.AssemblyInfoInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.2RechercheLettrePhrase\obj\Debug\net6.0\4.2RechercheLettrePhrase.AssemblyInfo.cs
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.2RechercheLettrePhrase\obj\Debug\net6.0\4.2RechercheLettrePhrase.csproj.CoreCompileInputs.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.2RechercheLettrePhrase\bin\Debug\net6.0\4.2RechercheLettrePhrase.exe
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.2RechercheLettrePhrase\bin\Debug\net6.0\4.2RechercheLettrePhrase.deps.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.2RechercheLettrePhrase\bin\Debug\net6.0\4.2RechercheLettrePhrase.runtimeconfig.json
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.2RechercheLettrePhrase\bin\Debug\net6.0\4.2RechercheLettrePhrase.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.2RechercheLettrePhrase\bin\Debug\net6.0\4.2RechercheLettrePhrase.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.2RechercheLettrePhrase\obj\Debug\net6.0\4.2RechercheLettrePhrase.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.2RechercheLettrePhrase\obj\Debug\net6.0\refint\4.2RechercheLettrePhrase.dll
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.2RechercheLettrePhrase\obj\Debug\net6.0\4.2RechercheLettrePhrase.pdb
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.2RechercheLettrePhrase\obj\Debug\net6.0\4.2RechercheLettrePhrase.genruntimeconfig.cache
+C:\Users\wkips\Documents\GitHub\DWWM2204\exoVS\solutionAlgoKIPS\4.2RechercheLettrePhrase\obj\Debug\net6.0\ref\4.2RechercheLettrePhrase.dll
